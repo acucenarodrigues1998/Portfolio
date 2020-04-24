@@ -28,5 +28,8 @@ My credentials are a Bachelor of Information Systems in progress at the Federal 
 * [Medium](https://medium.com/@acucenarodrigues1998)
 
 ## Data Science Projects:
+### Exploratory Data Analysis
+[Olympic Medals](https://github.com/acucenarodrigues1998/AnaliseExploratoriadeDados/blob/master/MedalhasOlimpicas.ipynb)
 
 ## Image Processing Projects:
+LIDC-IDRI Preprocess
