@@ -1,0 +1,182 @@
+Context
+We are building an HR analytics data set that can be used for building useful reports, understanding the difference between data and information, and multivariate analysis. The data set we are building is similar to that used in several academic reports and what may be found in ERP HR subsystems.
+
+We will update the sample data set as we gain a better understanding of the data elements using the calculations that exist in scholarly journals. Specifically, we will use the correlation tables to rebuild the data sets.
+
+Contexto
+Estamos construindo um conjunto de dados analíticos de RH que pode ser utilizado para construir relatórios úteis, compreendendo a diferença entre dados e informação, e análise multivariada. O conjunto de dados que estamos construindo é semelhante ao utilizado em vários relatórios acadêmicos e ao que pode ser encontrado nos subsistemas de RH do ERP.
+
+Atualizaremos o conjunto de dados de amostra à medida que obtivermos uma melhor compreensão dos elementos de dados, utilizando os cálculos que existem nas revistas acadêmicas. Especificamente, utilizaremos as tabelas de correlação para reconstruir os conjuntos de dados.
+
+
+Content
+The fields represent a fictitious data set where a survey was taken and actual employee metrics exist for a particular organization. None of this data is real.
+
+Conteúdo
+Os campos representam um conjunto de dados fictício onde foi realizado uma consulta e existem métricas reais de empregados para uma determinada organização. Nenhum destes dados é real.
+
+
+Acknowledgements
+We wouldn't be here without the help of others. If you owe any attributions or thanks, include them here along with any citations of past research.
+
+Agradecimentos
+Não estaríamos aqui sem a ajuda de outros. Se tiver alguma atribuição ou agradecimento, inclua-as aqui juntamente com quaisquer citações de pesquisas passadas.
+
+About this Dataset
+Why are our best and most experienced employees leaving prematurely? Have fun with this database and try to predict which valuable employees will leave next. Fields in the dataset include:
+
+Satisfaction Level
+Last evaluation
+Number of projects
+Average monthly hours
+Time spent at the company
+Whether they have had a work accident
+Whether they have had a promotion in the last 5 years
+Departments
+Salary
+
+Sobre este Dataset
+Porque é que os nossos melhores e mais experientes empregados estão saindo prematuramente? Divirta-se com esta base de dados e tente prever que empregados valiosos irão partir a seguir. Os campos do conjunto de dados incluem:
+
+Nível de Satisfação
+Última avaliação
+Número de projectos
+Média mensal de horas
+Tempo passado na empresa
+Se tiveram um acidente de trabalho
+Se tiveram uma promoção nos últimos 5 anos
+Departamentos
+Salário
+
+Inspiration
+Your data will be in front of the world's largest data science community. What questions do you want to see answered?
+
+Inspiração
+Os seus dados estarão em frente da maior comunidade mundial de ciência de dados. Que perguntas deseja ver respondidas?
+
+
+Data dictionary - Dicionário de dados
+
+ID: Employee ID
+
+Name: Employee Name
+
+Department: The functional department that the employee belongs to. - O departamento funcional a que o empregado pertence.
+
+GEO: The working geography that the employee belongs to in a matrix organization. - A geografia de trabalho a que o empregado pertence numa organização matricial.
+
+Role: The employee's position or title. - O cargo ou título do empregado.
+
+Rising_Star: Indicates the level of promise or promote-ability the employee has. - Indica o nível de promessa ou capacidade de promoção que o empregado tem.
+
+Will_Relocate: Is the employee willing to relocate? - O funcionário está disposto a deslocalizar-se?
+
+Critical: Is the employee critical to the organization? - O funcionário é crítico para a organização?
+
+Trending Perf: How is the employee trending in performance this year? - Como está a evolução do desempenho do funcionário este ano?
+
+Talent_Level: This field represents a subjective level of management's view of the employee. - Este campo representa um nível subjetivo da visão da direção sobre o empregado.
+
+Validated_Talent_Level: This field senior managements view of what the manager stated. - Esta visão de gestão de topo de campo do que o gestor declarou.
+
+Percent_Remote: The percentage of the employee's work that is done remotely. - A percentagem do trabalho do empregado que é feita remotamente.
+
+EMP_Sat_OnPrem_1: One indicator from a survey that was sent to employees by a third party. On prem (On premise) means that the employee maintains a high percentage of work on the corporation’s physical work locations. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. No pré (Na premissa) significa que o empregado mantém uma elevada percentagem de trabalho nos locais físicos de trabalho da empresa.
+
+EMP_Sat_OnPrem_2: One indicator from a survey that was sent to employees by a third party. On prem (On premise) means that the employee maintains a high percentage of work on the corporation’s physical work locations. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. No pré (Na premissa) significa que o empregado mantém uma elevada percentagem de trabalho nos locais físicos de trabalho da empresa.
+
+EMP_Sat_OnPrem_3: One indicator from a survey that was sent to employees by a third party. On prem (On premise) means that the employee maintains a high percentage of work on the corporation’s physical work locations. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. No pré (Na premissa) significa que o empregado mantém uma elevada percentagem de trabalho nos locais físicos de trabalho da empresa.
+
+EMP_Sat_OnPrem_4: One indicator from a survey that was sent to employees by a third party. On prem (On premise) means that the employee maintains a high percentage of work on the corporation’s physical work locations. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. No pré (Na premissa) significa que o empregado mantém uma elevada percentagem de trabalho nos locais físicos de trabalho da empresa.
+
+EMP_Sat_OnPrem_5: One indicator from a survey that was sent to employees by a third party. On prem (On premise) means that the employee maintains a high percentage of work on the corporation’s physical work locations. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. No pré (Na premissa) significa que o empregado mantém uma elevada percentagem de trabalho nos locais físicos de trabalho da empresa.
+
+EMP_Sat_Remote_1: One indicator from a survey that was sent to employees by a third party. Remote (distance employee) means that the employee does a high percentage of work away from the corporation’s physical work locations. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. Remoto (empregado à distância) significa que o empregado faz uma elevada percentagem de trabalho longe dos locais físicos de trabalho da empresa.
+
+EMP_Sat_Remote_2: One indicator from a survey that was sent to employees by a third party. Remote (distance employee) means that the employee does a high percentage of work away from the corporation’s physical work locations. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. Remoto (empregado à distância) significa que o empregado faz uma elevada percentagem de trabalho longe dos locais físicos de trabalho da empresa.
+
+EMP_Sat_Remote_3: One indicator from a survey that was sent to employees by a third party. Remote (distance employee) means that the employee does a high percentage of work away from the corporation’s physical work locations. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. Remoto (empregado à distância) significa que o empregado faz uma elevada percentagem de trabalho longe dos locais físicos de trabalho da empresa.
+
+EMP_Sat_Remote_4: One indicator from a survey that was sent to employees by a third party. Remote (distance employee) means that the employee does a high percentage of work away from the corporation’s physical work locations. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. Remoto (empregado à distância) significa que o empregado faz uma elevada percentagem de trabalho longe dos locais físicos de trabalho da empresa.
+
+EMP_Sat_Remote_5: One indicator from a survey that was sent to employees by a third party. Remote (distance employee) means that the employee does a high percentage of work away from the corporation’s physical work locations. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. Remoto (empregado à distância) significa que o empregado faz uma elevada percentagem de trabalho longe dos locais físicos de trabalho da empresa.
+
+EMP_Engagement_1: One indicator from a survey that was sent to employees by a third party. Engagement represents the employee's feeling about how they feel about being engaged in company activities. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O envolvimento representa o sentimento do empregado sobre como se sente em relação a estar envolvido em actividades da empresa.
+
+EMP_Engagement_2: One indicator from a survey that was sent to employees by a third party. Engagement represents the employee's feeling about how they feel about being engaged in company activities. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O envolvimento representa o sentimento do empregado sobre como se sente em relação a estar envolvido em actividades da empresa.
+
+EMP_Engagement_3: One indicator from a survey that was sent to employees by a third party. Engagement represents the employee's feeling about how they feel about being engaged in company activities. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O envolvimento representa o sentimento do empregado sobre como se sente em relação a estar envolvido em actividades da empresa.
+
+EMP_Engagement_4: One indicator from a survey that was sent to employees by a third party. Engagement represents the employee's feeling about how they feel about being engaged in company activities. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O envolvimento representa o sentimento do empregado sobre como se sente em relação a estar envolvido em actividades da empresa.
+
+EMP_Engagement_5: One indicator from a survey that was sent to employees by a third party. Engagement represents the employee's feeling about how they feel about being engaged in company activities. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O envolvimento representa o sentimento do empregado sobre como se sente em relação a estar envolvido em actividades da empresa.
+
+last_evaluation: The score on the last employee evaluation. - A pontuação na última avaliação dos empregados.
+
+number_project: The number of projects the employee works on throughout the year. - O número de projectos em que o funcionário trabalha ao longo do ano.
+
+average_montly_hours: The average number of hours the employee works. - O número médio de horas que o empregado trabalha.
+
+time_spend_company: Years of service. - Anos de serviço.
+
+Work_accident: The number of accidents the employee is involved in. - O número de acidentes em que o empregado está envolvido.
+
+left_Company: Did the employee leave the company? - O empregado deixou a empresa?
+
+CSR Factor: Ignore
+
+promotion_last_5years: Did the employee get promoted in last 5 years? - O empregado foi promovido nos últimos 5 anos?
+
+sales: Ignore
+
+salary: Relative pay grade (low, medium, high) by role. - Nota salarial relativa (baixa, média, alta) por papel.
+
+Gender: Gender or how the person identifies. - Gênero ou como a pessoa se identifica.
+
+LinkedIn_Hits: The number of times employee visits LinkedIn networking sites. - O número de vezes que os empregados visitam os sites do LinkedIn.
+
+Emp_Work_Status_2: One indicator from a survey that was sent to employees by a third party. Status represents how strongly employee feels about their status level in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O estatuto representa o quão fortemente o empregado se sente sobre o seu nível de estatuto na organização.
+
+Emp_Work_Status_3: One indicator from a survey that was sent to employees by a third party. Status represents how strongly employee feels about their status level in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O estatuto representa o quão fortemente o empregado se sente sobre o seu nível de estatuto na organização.
+
+Emp_Work_Status_4: One indicator from a survey that was sent to employees by a third party. Status represents how strongly employee feels about their status level in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O estatuto representa o quão fortemente o empregado se sente sobre o seu nível de estatuto na organização.
+
+Emp_Work_Status_5: One indicator from a survey that was sent to employees by a third party. Status represents how strongly employee feels about their status level in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O estatuto representa o quão fortemente o empregado se sente sobre o seu nível de estatuto na organização.
+
+Emp_Identity: How the employee identifies themselves with the company. - Como o empregado se identifica com a empresa.
+
+Emp_Role: How the employee identifies themselves with the importance of their role in the company. - Como o empregado se identifica com a importância do seu papel na empresa. 
+
+Emp_Position: How the employee identifies themselves with the importance of their position in the company. - Como o empregado se identifica com a importância da sua posição na empresa.
+
+Emp_Title: How the employee feels about their title. - O que pensa o empregado sobre o seu título.
+
+Women_Leave: Women who left the company. - Mulheres que deixaram a empresa.
+
+Men_Leave: Men who left the company. - Homens que deixaram a empresa
+
+Emp_Competitive_1: One indicator from a survey that was sent to employees by a third party. How employee feels about the competitive nature of work in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O que o empregado sente sobre a natureza competitiva do trabalho na organização.
+
+Emp_Competitive_2: One indicator from a survey that was sent to employees by a third party. How employee feels about the competitive nature of work in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O que o empregado sente sobre a natureza competitiva do trabalho na organização.
+
+Emp_Competitive_3: One indicator from a survey that was sent to employees by a third party. How employee feels about the competitive nature of work in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O que o empregado sente sobre a natureza competitiva do trabalho na organização.
+
+Emp_Competitive_4: One indicator from a survey that was sent to employees by a third party. How employee feels about the competitive nature of work in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O que o empregado sente sobre a natureza competitiva do trabalho na organização.
+
+Emp_Competitive_5: One indicator from a survey that was sent to employees by a third party. How employee feels about the competitive nature of work in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O que o empregado sente sobre a natureza competitiva do trabalho na organização.
+
+Emp_Collaborative_1: One indicator from a survey that was sent to employees by a third party. How employee feels about the collaborative nature of work in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O que o empregado sente sobre a natureza colaborativa do trabalho na organização.
+
+Emp_Collaborative_2: One indicator from a survey that was sent to employees by a third party. How employee feels about the collaborative nature of work in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O que o empregado sente sobre a natureza colaborativa do trabalho na organização.
+
+Emp_Collaborative_3: One indicator from a survey that was sent to employees by a third party. How employee feels about the collaborative nature of work in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O que o empregado sente sobre a natureza colaborativa do trabalho na organização.
+
+Emp_Collaborative_4: One indicator from a survey that was sent to employees by a third party. How employee feels about the collaborative nature of work in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O que o empregado sente sobre a natureza colaborativa do trabalho na organização.
+
+Emp_Collaborative_5: One indicator from a survey that was sent to employees by a third party. How employee feels about the collaborative nature of work in the organization. - Um indicador de um inquérito que foi enviado aos empregados por um terceiro. O que o empregado sente sobre a natureza colaborativa do trabalho na organização.
+
+Sensor_StepCount: Sentient devices are used to capture certain employee activities. In this case number of steps. - São utilizados dispositivos sensíveis para capturar certas atividades dos empregados. Neste caso, o número de passos.
+
+Sensor_Heartbeat(Average/Min): Sentient devices are used to capture certain employee activities. In this case heartbeat. - São utilizados dispositivos sensíveis para capturar certas actividades dos empregados. Neste caso, os batimentos cardíacos.
+
+Sensor_Proximity(1-highest/10-lowest): Sentient devices are used to capture certain employee activities. In this case how close they are to their company laptop. - São utilizados dispositivos sensíveis para capturar certas actividades dos funcionários. Neste caso, o quão perto estão do notebook da sua empresa.

@@ -16,11 +16,6 @@ My credentials are a Bachelor of Information Systems in progress at the Federal 
 * University of Michigan - Applied Plotting, Charting and Data Representation in Python
 * USP - Introduction to Computer Science with Python part 1
 * USP - Introduction to Computer Science with Python part 2
-* UFPI - Digital Medical Image Processing with Python and OpenCV
-* UFPI - Introduction to Data Analysis with Python and Pandas
-* UFPI - Introduction to Julia Programming Language
-* UFPI - Processing and Analysis of Acoustic Signals in Urban Scenarios with CONVNETS: Theory and Practice
-* UFPI - Introduction to Exploratory Data Analysis with Python
 
 **Links:**
 * [Blog](https://medium.com/ds-com-caf%C3%A9)
@@ -28,8 +23,14 @@ My credentials are a Bachelor of Information Systems in progress at the Federal 
 * [Medium](https://medium.com/@acucenarodrigues1998)
 
 ## Data Science Projects:
-### Exploratory Data Analysis
-[Olympic Medals](https://github.com/acucenarodrigues1998/AnaliseExploratoriadeDados/blob/master/MedalhasOlimpicas.ipynb)
+### Insight Projects:
+
+### ML Projects:
+
+### Data Engineering Projects:
+
+### End-to-End Projects:
+ 
 
 ## Image Processing Projects:
-LIDC-IDRI Preprocess
+
